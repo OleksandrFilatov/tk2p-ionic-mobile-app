@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('/src/assets/fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'IndieFlower';
+    src: url('/src/assets/fonts/IndieFlower-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Caveat';
+    src: url('/src/assets/fonts/Caveat-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'AmaticSC';
+    src: url('/src/assets/fonts/AmaticSC-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'GreatVibes';
+    src: url('/src/assets/fonts/GreatVibes-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Handlee';
+    src: url('/src/assets/fonts/Handlee-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('/src/assets/fonts/Comfortaa-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Righteous';
+    src: url('/src/assets/fonts/Righteous-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'PoiretOne';
+    src: url('/src/assets/fonts/PoiretOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'CinzelDecorative';
+    src: url('/src/assets/fonts/CinzelDecorative-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'MountainsofChristmas';
+    src: url('/src/assets/fonts/MountainsofChristmas-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('/src/assets/fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'AnonymousPro';
+    src: url('/src/assets/fonts/AnonymousPro-Regular.ttf');
+}
+
+.title {
+    margin: 71px 0px 80px;
+    font-family: Roboto;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+}
+
+.button {
+    background: #6EA66C;
+    text-align: center;
+    font-size: 14px;
+    color: white;
+    line-height: 35px;
+    min-width: 105px;
+    height: 35px;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.content {
+    margin-top: 20px;
+    border: 1px solid black;
+    padding: 13px;
+}
+
+.icon {
+    font-size: 27px;
+}
+
+.col {
+    display: flex;
+    align-items: center;
+}

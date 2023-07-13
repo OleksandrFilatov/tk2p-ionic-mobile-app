@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TK2P",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

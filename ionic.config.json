@@ -1,0 +1,7 @@
+{
+  "name": "TK2P",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
